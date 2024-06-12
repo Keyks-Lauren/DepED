@@ -3,7 +3,7 @@ name = "procurement"
 authors = [
     { name = "Chamique Lauren Flores", email = "chamiquelauren@gmail.com"}
 ]
-description = "for DepEd procurement system"
+description = "for DepED procurement system"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

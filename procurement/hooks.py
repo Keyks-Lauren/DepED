@@ -1,7 +1,7 @@
 app_name = "procurement"
 app_title = "Procurement"
 app_publisher = "Chamique Lauren Flores"
-app_description = "for DepEd procurement system"
+app_description = "for DepED procurement system"
 app_email = "chamiquelauren@gmail.com"
 app_license = "mit"
 # required_apps = []

@@ -1,6 +1,6 @@
 ### Procurement
 
-for DepEd procurement system
+for DepED procurement system
 
 ### Installation
 
